@@ -1,6 +1,5 @@
-# project-samarth
-Intelligent Q&amp;A system for analyzing agriculture and rainfall data using Python and government datasets.
 
+## 🛰 Project Samarth — Intelligent Q&A System on Government Data
 
 ### 📘 Overview
 
@@ -117,7 +116,7 @@ You can view a 2-minute Loom walkthrough video showing:
 * Explanation of system design
 
 (Add your Loom link here after recording)
-➡ *Demo Video:* [Loom Video Link](#)
+➡ *Demo Video:* [https://www.loom.com/share/ade8aa5d64ed45f1a798d07b6586cdb3](#)
 
 ---
 
