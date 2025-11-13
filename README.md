@@ -122,9 +122,7 @@ You can view a 2-minute Loom walkthrough video showing:
 
 ### 👩‍💻 Author
 
-*Aysha K*
+*Navash Ahamed*
 Project Samarth — Intelligent Q&A System Prototype
 
----
 
-Would you like me to make the same README.md in *Markdown format (ready to upload)* so you can directly copy it into your VS Code folder?
